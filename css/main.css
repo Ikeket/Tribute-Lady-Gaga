@@ -1,0 +1,35 @@
+* {
+    padding: 0px;
+    margin: 0px;
+  }
+  body {
+  }
+  header {
+    background-color: red;
+  }
+
+section {
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+}
+.blabla {
+  display: flex;
+  flex-direction: row;
+}
+
+.blablabla {
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    width: 50%;
+}
+
+article {
+    border: 2px solid red;
+}
+
+aside {
+    background-color: yellow;
+    width: 50%;
+}
